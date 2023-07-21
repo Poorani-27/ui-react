@@ -1,0 +1,14 @@
+.app__header{
+    background-color: rgb(0, 0, 0);
+}
+.app__header-h1{
+    font-family: var(--font-base);
+    color: blueviolet;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 70px;
+    font-size: 50px;
+}
+.app__header-img img{
+width: 80%;
+}
